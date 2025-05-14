@@ -6,7 +6,6 @@ update
 asdasdad
 tttt
 qeqweqwe
-<<<<<<< HEAD
 qwerty
 tytty
-
+gwgwgwgw
