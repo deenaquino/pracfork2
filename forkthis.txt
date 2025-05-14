@@ -1,8 +1,6 @@
 fork fork fork
 123123
 qwer
-<<<<<<< HEAD
 aquino
-=======
 update
->>>>>>> d84652a44def8485b0a8edc3007c100b27563456
+asdasdad
